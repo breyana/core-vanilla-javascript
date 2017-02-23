@@ -51,11 +51,11 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 ### Plan
 
 - [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
+  - [ ] https://github.com/breyana/core-vanilla-javascript/tree/master/tutorial-practice
 - [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
+ - [ ] https://github.com/breyana/core-vanilla-javascript/tree/master/tutorial-practice
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
- - [ ] Link to your solution here
+ - [ ] https://github.com/breyana/core-vanilla-javascript/tree/master/tutorial-practice
 - [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
 - [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
